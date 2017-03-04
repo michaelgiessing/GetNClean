@@ -1,0 +1,11 @@
+There are three file of interest.
+
+1, codebook.Rmd
+  The codebook describes what this data set.  Where it came from and how it was processed.
+  
+2. run_analysis.R
+  run_analysis.R is the actual R script that was used to process the data.
+  
+3. The data set zip file FUCI_HAR_Dataset.zip.  And an extracted copy in a directory
+  
+These files were created as a class project for Getting and Cleaning Data on Coursera.
